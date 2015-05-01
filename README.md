@@ -44,15 +44,10 @@ What it sets up
 * [Bundler] for managing Ruby libraries
 * [Exuberant Ctags] for indexing files for vim tab completion
 * [Foreman] for managing web processes
-* [gh] for interacting with the GitHub API
-* [Heroku Toolbelt] for interacting with the Heroku API
 * [Homebrew] for managing operating system libraries
-* [ImageMagick] for cropping and resizing images
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
-* [Postgres] for storing relational data
-* [Qt] for headless JavaScript testing via Capybara Webkit
+* [Python] stable for writing general-purpose code
 * [Rbenv] for managing versions of Ruby
-* [RCM] for managing company and personal dotfiles
 * [Redis] for storing key-value data
 * [Ruby Build] for installing Rubies
 * [Ruby] stable for writing general-purpose code
@@ -79,6 +74,7 @@ What it sets up
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
 [Zsh]: http://www.zsh.org/
+[Python]: http://www.python.org/
 
 It should take less than 15 minutes to install (depends on your machine).
 
